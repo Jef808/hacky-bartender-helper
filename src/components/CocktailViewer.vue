@@ -51,58 +51,69 @@ export interface cocktailState {
 </script>
 
 <template>
-  <v-card
-    v-for="drink in drinks"
-    :key="drink.id"
-    class="mx-auto"
-    max-width="344"
-  >
-    <v-div v-show="!isHidden(drink)">
-      <v-img class="align-end" height="200px" :src="drink.imageUrl"> </v-img>
-      <v-row>
-        <v-col cols="auto">
-          <v-card-title v-text="drink.name"></v-card-title>
-          <v-card-subtitle>{{ drink.ibaCategory }}</v-card-subtitle>
-        </v-col>
-        <v-col cols="2">
-          <v-card-actions>
-            <v-btn icon @click="toggleHidden(drink)">
-              <v-icon>mdi-eye-off</v-icon>
-            </v-btn>
-            <v-btn icon>
-              <v-icon>mdi-star-outline</v-icon>
-            </v-btn>
-            <v-btn icon @click="toggleExpanded(drink)">
-              <v-icon v-if="!isExpanded(drink)">mdi-chevron-down</v-icon>
-              <v-icon v-else>mdi-chevron-up</v-icon>
-            </v-btn>
-          </v-card-actions>
-        </v-col>
-      </v-row>
-      <v-div v-show="isExpanded(drink)">
+  <v-div>
+    <v-card
+      v-for="drink in drinks"
+      :key="drink.id"
+      class="pa-md-4 mx-auto"
+      max-width="400"
+      elevation="4"
+      color="deep-purple-lighten-5"
+    >
+      <v-div v-show="!isHidden(drink)">
+        <v-img
+          class="align-end"
+          height="200px"
+          :src="drink.imageUrl"
+          @click="toggleExpanded(drink)"
+        >
+        </v-img>
         <v-row>
           <v-col cols="auto">
-            <v-card-text class="pb-0">
-              <v-row
-                v-for="ingredient in drink.ingredients"
-                :key="ingredient[0]"
-              >
-                <v-col cols="auto">
-                  {{ ingredient[0] }}
-                </v-col>
-                <v-col>
-                  {{ ingredient[1] }}
-                </v-col>
-              </v-row>
-              <v-row>
-                <v-col cols="auto">
-                  {{ drink.instructions }}
-                </v-col>
-              </v-row>
-            </v-card-text>
+            <v-card-title v-text="drink.name"></v-card-title>
+            <v-card-subtitle>{{ drink.ibaCategory }}</v-card-subtitle>
+          </v-col>
+          <v-col cols="2">
+            <v-card-actions>
+              <v-btn icon @click="toggleHidden(drink)">
+                <v-icon>mdi-eye-off</v-icon>
+              </v-btn>
+              <v-btn icon>
+                <v-icon>mdi-star-outline</v-icon>
+              </v-btn>
+              <v-btn icon @click="toggleExpanded(drink)">
+                <v-icon v-if="!isExpanded(drink)">mdi-chevron-down</v-icon>
+                <v-icon v-else>mdi-chevron-up</v-icon>
+              </v-btn>
+            </v-card-actions>
           </v-col>
         </v-row>
+        <v-div v-show="isExpanded(drink)">
+          <v-divider></v-divider>
+          <v-row>
+            <v-col cols="auto">
+              <v-card-text class="pb-0">
+                <v-row
+                  v-for="ingredient in drink.ingredients"
+                  :key="ingredient[0]"
+                >
+                  <v-col cols="auto">
+                    <b>{{ ingredient[0] }}</b>
+                  </v-col>
+                  <v-col>
+                    {{ ingredient[1] }}
+                  </v-col>
+                </v-row>
+                <v-row>
+                  <v-col cols="auto">
+                    {{ drink.instructions }}
+                  </v-col>
+                </v-row>
+              </v-card-text>
+            </v-col>
+          </v-row>
+        </v-div>
       </v-div>
-    </v-div>
-  </v-card>
+    </v-card>
+  </v-div>
 </template>
