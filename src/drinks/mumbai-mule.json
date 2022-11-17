@@ -1,0 +1,38 @@
+{
+  "name": "Mumbai Mule",
+  "description": "",
+  "ingredients": [
+    {
+      "ingredient": "Vodka",
+      "quantity": "2",
+      "unit": "oz",
+      "misc": "Use Tito's"
+    },
+    {
+      "ingredient": "Ginger",
+      "quantity": "",
+      "unit": "",
+      "misc": ""
+    },
+    {
+      "ingredient": "Spiced Simple Syrup",
+      "quantity": "1/2",
+      "unit": "oz",
+      "misc": ""
+    },
+    {
+      "ingredient": "Lemon Juice",
+      "quantity": "",
+      "unit": "",
+      "misc": ""
+    },
+    {
+      "ingredient": "Ginger Beer",
+      "quantity": "",
+      "unit": "",
+      "misc": ""
+    }
+  ],
+  "directions": "",
+  "category": "vodka"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "Spiced Rum Chai",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Spiced Rum",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "White Rum",
+            "quantity": "",
+            "unit": "",
+            "misc": "Use Bacardi"
+        },
+        {
+            "ingredient": "Ginger tea",
+            "quantity": "1",
+            "unit": "pouch",
+            "misc": ""
+        },
+        {
+            "ingredient": "Cinnamon",
+            "quantity": "1",
+            "unit": "stick",
+            "misc": ""
+        },
+        {
+            "ingredient": "Clove",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "",
+    "category": ""
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Boozy Mango Lassi",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Rum",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Yogurt",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Mango",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "",
+    "category": "Rum"
+}

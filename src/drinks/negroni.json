@@ -1,0 +1,32 @@
+{
+    "name": "Negroni",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Gin",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Campari",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Sweet Vermouth",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Orange twist",
+            "quantity": "",
+            "unit": "",
+            "misc": "For garnish"
+        }
+    ],
+    "directions": "Only stir, not shake.",
+    "category": "Gin"
+}

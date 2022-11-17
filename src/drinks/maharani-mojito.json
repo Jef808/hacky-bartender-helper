@@ -1,0 +1,44 @@
+{
+    "name": "Maharani Mojito",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Tequila",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Whiskey",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Black pepper",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Strawberries",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Orange",
+            "quantity": "1",
+            "unit": "slice",
+            "misc": "Grilled"
+        },
+        {
+            "ingredient": "Marmalade",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Grill orange slice with torch.",
+    "category": "Mixed"
+}

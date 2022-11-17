@@ -1,0 +1,32 @@
+{
+    "name": "Watermelon Mojito",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Spiced Rum",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Watermelon Puree",
+            "quantity": "4",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Mint",
+            "quantity": "Handful",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Sprite",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Shake rum, watermelon and mint, then top with Sprite.",
+    "category": "Rum"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Mumbai Simple Johny",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Blended Scotch",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Simple syrup",
+            "quantity": "1/2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Lemon juice",
+            "quantity": "",
+            "unit": "",
+            "misc": "Squeezed fresh"
+        },
+        {
+            "ingredient": "Mint",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Only stirred",
+    "category": "Whiskey"
+}

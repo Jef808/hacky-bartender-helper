@@ -1,0 +1,26 @@
+{
+    "name": "Marshmallow Vodka",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Irish cream",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Heavy cream",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Graham crackers",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "",
+    "category": ""
+}

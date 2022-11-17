@@ -1,0 +1,26 @@
+{
+    "name": "Bourbon Sweet Tea",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Bourbon",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Lime juice",
+            "quantity": "1/2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Iced Tea",
+            "quantity": "4",
+            "unit": "oz",
+            "misc": ""
+        }
+    ],
+    "directions": "",
+    "category": ""
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Blueberry Lemonade Martini",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Vodka",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Simple Syrup",
+            "quantity": "1/2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Fresh Lime",
+            "quantity": "2",
+            "unit": "whole",
+            "misc": ""
+        },
+        {
+            "ingredient": "Blueberries",
+            "quantity": "Handful",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Muddle blueberries and limes, add rest and shake.",
+    "category": "vodka"
+}

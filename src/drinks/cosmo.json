@@ -1,0 +1,31 @@
+{
+    "name": "Cosmo",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Vodka",
+            "quantity": "1 1/2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Triple Sec",
+            "quantity": "1/4",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Lime Juice",
+            "quantity": "1/4",
+            "unit": "oz",
+            "misc": ""
+        }{
+            "ingredient": "Cranberry Juice",
+            "quantity": "1/4",
+            "unit": "oz",
+            "misc": ""
+        }
+    ],
+    "directions": "Mix and shake.",
+    "category": "vodka"
+}

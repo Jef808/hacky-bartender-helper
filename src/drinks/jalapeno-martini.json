@@ -1,0 +1,38 @@
+{
+    {
+        "name": "Jalapeno Martini",
+        "description": "",
+        "ingredients": [
+            {
+                "ingredient": "Vodka",
+                "quantity": "2",
+                "unit": "oz",
+                "misc": ""
+            },
+            {
+                "ingredient": "Simple Syrup",
+                "quantity": "2",
+                "unit": "oz",
+                "misc": ""
+            },
+            {
+                "ingredient": "Jalapeno",
+                "quantity": "1-2",
+                "unit": "thin slices",
+                "misc": ""
+            }{
+                "ingredient": "Lemon Juice",
+                "quantity": "",
+                "unit": "",
+                "misc": ""
+            }{
+                "ingredient": "Lime Juice",
+                "quantity": "",
+                "unit": "",
+                "misc": ""
+            }
+        ],
+        "directions": "Muddle the Jalapeno, lime and lemon juice, add the rest and shake well.",
+        "category": "vodka"
+    }
+}

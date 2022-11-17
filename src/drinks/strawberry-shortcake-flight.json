@@ -1,0 +1,38 @@
+{
+    "name": "Strawberry Shortcake Flight",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Vanilla Vodka",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Strawberry Liqueur",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Amaretto",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Half & half",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Crumbs/Strawberry Whipped Cream",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+    ],
+    "directions": "",
+    "category": "Dessert"
+}

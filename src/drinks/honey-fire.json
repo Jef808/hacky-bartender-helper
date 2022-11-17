@@ -1,0 +1,38 @@
+{
+    "name": "Honey Fire",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Bourbon",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Jack Fire",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Apple Juice",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Honey",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Sugar",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Use the sugar to make a rim on the glass.",
+    "category": "Whiskey"
+}

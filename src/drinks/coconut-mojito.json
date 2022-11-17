@@ -1,0 +1,44 @@
+{
+    "name": "Coconut Mojito",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Coconut rum",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Cream of coconut",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Fresh mint",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Lime",
+            "quantity": "2",
+            "unit": "whole",
+            "misc": ""
+        },
+        {
+            "ingredient": "Brown sugar",
+            "quantity": "1",
+            "unit": "cube",
+            "misc": ""
+        },
+        {
+            "ingredient": "Pineapple Juice",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        }
+    ],
+    "directions": "Muddle mint, limes and sugar cube, shake and pour back into same glass.",
+    "category": "Rum"
+}

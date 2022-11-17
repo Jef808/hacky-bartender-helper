@@ -1,0 +1,38 @@
+{
+    "name": "Chocolate Cake Martini",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Godiva Chocolate Liqueur",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Cake-Flavored Vodka",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Half & half",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Chocolate Syrup",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Chocolate Shavings",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "",
+    "category": ""
+}

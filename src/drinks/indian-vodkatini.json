@@ -1,0 +1,32 @@
+{
+    "name": "Indian Vodkatini",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Vodka",
+            "quantity": "2",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Rum",
+            "quantity": "1",
+            "unit": "oz",
+            "misc": ""
+        },
+        {
+            "ingredient": "Red chili pepper",
+            "quantity": "",
+            "unit": "",
+            "misc": "For garnish"
+        },
+        {
+            "ingredient": "Pineapple juice",
+            "quantity": "",
+            "unit": "",
+            "misc": "For garnish"
+        }
+    ],
+    "directions": "",
+    "category": "vodka"
+}

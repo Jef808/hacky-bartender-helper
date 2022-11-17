@@ -1,0 +1,26 @@
+{
+    "name": "Red Velvet Martini",
+    "description": "",
+    "ingredients": [
+        {
+            "ingredient": "Bailey's Red Velvet Liqueur",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Vanilla Vodka",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        },
+        {
+            "ingredient": "Raspberry Syrup",
+            "quantity": "",
+            "unit": "",
+            "misc": ""
+        }
+    ],
+    "directions": "Use the raspberry syrup as a drizzle on the glass.",
+    "category": "Dessert"
+}
